@@ -18,3 +18,5 @@ https://github.com/PaddlePaddle/PaddleSpeech
 https://github.com/jackaduma/CycleGAN-VC2
 
 https://github.com/deterministic-algorithms-lab/Cross-Lingual-Voice-Cloning
+
+https://github.com/jackaduma/CycleGAN-VC2
